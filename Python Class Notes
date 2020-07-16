@@ -51,8 +51,8 @@ https://www.virtualbox.org/
     lower()
     upper()
 3)Tuples
-4)Dictionaries
-5)Lists
+4)Lists
+5)Dictionaries
 6)Sets
 -----------
 Practise 
@@ -63,6 +63,9 @@ Explore builtin string methods
 ------------------------
 ######## Day 2 ########
 ------------------------
+To check elements count or charcaters count
 
+a = 'banagalore' # characters
+b = ['anjan', 'kumar', 36, 45, 90, 87.36, 377]
 
 
